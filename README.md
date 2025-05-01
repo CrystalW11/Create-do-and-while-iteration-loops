@@ -26,3 +26,10 @@ while (current >= 3)
 Console.WriteLine($"Last number: {current}");
 */
 ```
+
+#### output
+
+5
+1
+6
+7
