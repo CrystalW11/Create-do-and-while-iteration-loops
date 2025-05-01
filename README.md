@@ -29,7 +29,9 @@ Console.WriteLine($"Last number: {current}");
 
 #### output
 
+```
 5
 1
 6
 7
+```
