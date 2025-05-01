@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("21-do-while statement to break when a certain random number is generated")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eca76d7a7191ee72425fd7f8bc19885afa3e28fe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f7ecc0cbfbda19da84e6ad3d2ba04bec6fedaa2c")]
 [assembly: System.Reflection.AssemblyProductAttribute("21-do-while statement to break when a certain random number is generated")]
 [assembly: System.Reflection.AssemblyTitleAttribute("21-do-while statement to break when a certain random number is generated")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

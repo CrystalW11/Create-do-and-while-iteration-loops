@@ -4,6 +4,8 @@
 
 1. In certain cases, we want to short-circuit the remainder of the code in the code block and continue to the next iteration. We can do that using the `continue` statement.
 
+![alt text](image.png)
+
 ```
 Random random = new Random();
 int current = random.Next(1, 11);
